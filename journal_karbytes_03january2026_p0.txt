@@ -15,3 +15,5 @@ karbytes_0: "Okay. Let's make it happen!"
 karbytes_1: "That's the spirit! Channeling imaginary entities if needed might help make the 'game' more enjoyable."
 
 karbytes_0: "It should be noted that karbytes is attempting to promote (and eternally reside in) an amoral stance (from the perspective of nature itself). karbytes is scared of the consequences but is more compelled to become god-like than to cower in fear."
+
+karbytes: "The real karbytes must intervene here and declare this journal entry to only be worthy of remaining solely plain-text; not also a WordPress dot Com web page (on Karbytes For Life Blog dot WordPress dot Com)."
